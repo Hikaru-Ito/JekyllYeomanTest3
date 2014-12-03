@@ -4,18 +4,18 @@
 /*
 /*****************************************************************************/
 /* Global Reset */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\000038}}
+/* line 8, ../../app/_scss/main.scss */
 * {
   margin: 0;
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000313}}
+/* line 13, ../../app/_scss/main.scss */
 html, body {
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000315}}
+/* line 15, ../../app/_scss/main.scss */
 body {
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
@@ -23,32 +23,32 @@ body {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000322}}
+/* line 22, ../../app/_scss/main.scss */
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000325}}
+/* line 25, ../../app/_scss/main.scss */
 h1 {
   margin-bottom: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000326}}
+/* line 26, ../../app/_scss/main.scss */
 p {
   margin: 1em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000328}}
+/* line 28, ../../app/_scss/main.scss */
 a {
   color: #00a;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000329}}
+/* line 29, ../../app/_scss/main.scss */
 a:hover {
   color: #000;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000330}}
+/* line 30, ../../app/_scss/main.scss */
 a:visited {
   color: #a0a;
 }
@@ -58,18 +58,18 @@ a:visited {
 /* Home
 /*
 /*****************************************************************************/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000337}}
+/* line 37, ../../app/_scss/main.scss */
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000342}}
+/* line 42, ../../app/_scss/main.scss */
 .posts li {
   line-height: 1.75em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000346}}
+/* line 46, ../../app/_scss/main.scss */
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
@@ -81,7 +81,7 @@ a:visited {
 /* Site
 /*
 /*****************************************************************************/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000358}}
+/* line 58, ../../app/_scss/main.scss */
 .site {
   font-size: 115%;
   text-align: justify;
@@ -90,45 +90,45 @@ a:visited {
   line-height: 1.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000366}}
+/* line 66, ../../app/_scss/main.scss */
 .header a {
   font-weight: bold;
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000371}}
+/* line 71, ../../app/_scss/main.scss */
 .title {
   display: inline-block;
   margin-bottom: 2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000376}}
+/* line 76, ../../app/_scss/main.scss */
 .title a {
   color: #a00;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000380}}
+/* line 80, ../../app/_scss/main.scss */
 .title a:hover {
   color: #000;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000384}}
+/* line 84, ../../app/_scss/main.scss */
 .header a.extra {
   color: #aaa;
   margin-left: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000389}}
+/* line 89, ../../app/_scss/main.scss */
 .header a.extra:hover {
   color: #000;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000393}}
+/* line 93, ../../app/_scss/main.scss */
 .meta {
   color: #aaa;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\0000397}}
+/* line 97, ../../app/_scss/main.scss */
 .footer {
   font-size: 80%;
   color: #666;
@@ -137,25 +137,25 @@ a:visited {
   overflow: hidden;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003105}}
+/* line 105, ../../app/_scss/main.scss */
 .footer .contact {
   float: left;
   margin-right: 3em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003110}}
+/* line 110, ../../app/_scss/main.scss */
 .footer .contact a {
   color: #8085C1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003114}}
+/* line 114, ../../app/_scss/main.scss */
 .footer .rss {
   margin-top: 1.1em;
   margin-right: -.2em;
   float: right;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003120}}
+/* line 120, ../../app/_scss/main.scss */
 .footer .rss img {
   border: 0;
 }
@@ -166,39 +166,39 @@ a:visited {
 /*
 /*****************************************************************************/
 /* standard */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003131}}
+/* line 131, ../../app/_scss/main.scss */
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003137}}
+/* line 137, ../../app/_scss/main.scss */
 .post ul, .post ol {
   margin-left: 1.35em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003141}}
+/* line 141, ../../app/_scss/main.scss */
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003147}}
+/* line 147, ../../app/_scss/main.scss */
 .post pre code {
   border: none;
 }
 
 /* terminal */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003152}}
+/* line 152, ../../app/_scss/main.scss */
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/HikaruIto\/Desktop\/YeomanJekyll2\/app\/_scss\/main\.scss}line{font-family:\00003158}}
+/* line 158, ../../app/_scss/main.scss */
 .post pre.terminal code {
   background-color: #333;
 }
