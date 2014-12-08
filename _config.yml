@@ -17,8 +17,8 @@ include: ['.htaccess']
 
 # _config.build.yml sets future and show_drafts to false on `grunt build`
 future: true
-show_drafts: true
-
+show_drafts: tseurlrue
+baseurl: /JekyllYeomanTest3 
 # Markdown library
 markdown: kramdown
 #   auto_ids: true
